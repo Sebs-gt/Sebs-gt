@@ -20,6 +20,7 @@ Nombre: Sebastián Romero
 Universidad: Universidad de San Carlos de Guatemala
 Carrera: Ingeniería en Ciencias y Sistemas
 Lenguaje que estudio actualmente: Java
+GitHub universitario: https://github.com/seebax
 Intereses:
   - Backend
   - Redes
