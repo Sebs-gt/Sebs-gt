@@ -10,7 +10,7 @@
 Me considero una persona dedicada, perseverante y con una gran capacidad de adaptación para afrontar nuevos retos. Siempre busco aprender algo nuevo y mejorar tanto mis habilidades técnicas como personales. Disfruto colaborar en proyectos que representen un desafío y que requieran compromiso, responsabilidad y profesionalismo.
 
 Actualmente estoy fortaleciendo mis conocimientos en **desarrollo de software**, mientras exploro nuevas áreas como **redes, infraestructura y administración de sistemas**, ya que me interesa comprender cómo funciona la tecnología desde el hardware hasta el software.
-☕ Cuando no estoy programando, disfruto pasar tiempo con mi novia, amigos y las personas importantes para mí.
+Cuando no estoy programando, disfruto pasar tiempo con mi novia, amigos y las personas importantes para mí.
 
 
 ## ⚡ Datos rápidos
